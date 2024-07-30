@@ -1,4 +1,4 @@
-USE [prueba]
+USE [altaclientes]
 GO
 
 /****** Object:  Table [dbo].[cat_clientes]    Script Date: 14/06/2021
